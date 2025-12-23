@@ -24,8 +24,10 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 ![WhatsApp Image 2025-12-20 at 19 29 36 (2)](https://github.com/user-attachments/assets/bc9d4450-1144-412a-aa8c-e194523c4619)
 **CALCULATION:**
 
-![WhatsApp Image 2025-12-20 at 19 29 36 (1)](https://github.com/user-attachments/assets/f4fd1939-594a-4296-8c6e-87d644daee53)
-![WhatsApp Image 2025-12-20 at 19 29 36](https://github.com/user-attachments/assets/7ae84e72-55a0-44df-8b8f-b473153e3767)
+![WhatsApp Image 2025-12-20 at 19 29 36 (1)](https://github.com/user-attachments/assets/d969be5e-1eeb-4af9-b2fa-f90d422ca4d7)
+![WhatsApp Image 2025-12-20 at 19 29 36](https://github.com/user-attachments/assets/2d86e180-2941-4a82-b80c-348943b0f411)
+
+
 
 **PROCEDURE:**
 
@@ -40,17 +42,18 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 5.	Reduce the RPS to its minimum value and switch OFF the supply.
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
-![WhatsApp Image 2025-12-20 at 19 29 35](https://github.com/user-attachments/assets/389d3546-e896-465d-9cb4-ac426fd9328a)
+![WhatsApp Image 2025-12-20 at 19 29 35](https://github.com/user-attachments/assets/10793f4c-fcf3-4d83-bd7f-ce93a5156ffa)
+
 
 
 **RESULT:**
 
-Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
+Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	2V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is	0.68V.
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is	0.45V.
 
-c)	The voltage V3 is	V.
+c)	The voltage V3 is	0.19V.
 
 
